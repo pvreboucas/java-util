@@ -2,6 +2,8 @@
 
 [Curso de Java.util da formação Java/Alura](https://cursos.alura.com.br/course/java-util-lambdas)
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/java-lang-object-string)
+
 [Principal](https://github.com/pvreboucas/java-util)
 
 * [Aula 1 - Conhecendo Arrays](https://github.com/pvreboucas/java-util/tree/aula-01)
@@ -19,3 +21,5 @@
 * [Aula 7 - Ordenação de listas](https://github.com/pvreboucas/java-util/tree/aula-07)
 
 * [Aula 8 - Classes anônimas e Lambdas](https://github.com/pvreboucas/java-util/tree/aula-08)
+
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/java-collections)
